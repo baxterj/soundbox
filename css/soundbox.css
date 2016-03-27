@@ -2,3 +2,15 @@
     display: none;
 }
 
+.slider.slider-horizontal {
+    width: 100%;
+}
+
+#add-sound-form {
+    max-width: 400px;
+    margin: 20px auto;
+}
+
+#add-sound-form label {
+    margin-top: 5px;
+}
